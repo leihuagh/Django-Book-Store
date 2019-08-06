@@ -1919,7 +1919,7 @@
   background-color: #9e9e9e;
 }
 
-.color-grey-600, body {
+.color-grey-600 {
   color: #757575;
 }
 
@@ -2042,5 +2042,9 @@
 body {
   margin-top: 3.5rem;
   font-family: 'Roboto', sans-serif;
+}
+
+main {
+  color: #f44336;
 }
 /*# sourceMappingURL=site.css.map */

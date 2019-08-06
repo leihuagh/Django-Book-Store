@@ -1,7 +1,0 @@
-@import "mixins";
-@import "variables";
-@import "colors";
-body {
-    @include mt($header-size);
-    @extend .color-grey-600;
-}
